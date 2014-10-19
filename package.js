@@ -2,7 +2,7 @@ Package.describe({
 	summary: "Add Polymer-Elements to Meteor",
 	version: "1.0.3",
 	git: "http://github.com/magee/meteor-polymer-elements",
-	name: 'magee:polymer-elements'
+	name: 'magee:meteor-polymer-elements'
 });
 
 Npm.depends({
